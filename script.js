@@ -7,3 +7,5 @@ if (Object.is(numero, NaN)){
         }
 alert(resultado);
     }
+
+    /* s2*/ 
